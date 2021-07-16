@@ -3,10 +3,11 @@ Heart failure is a common event caused by CVDs and this dataset contains 9 featu
 In this project, we build a model using Auto AI and Node-red  web application where we can showcase the prediction of heart failure.
 
 Services Used:
-IBM Watson Studio
 
-IBM Watson Machine Learning
+1.IBM Watson Studio
 
-Node-RED
+2.IBM Watson Machine Learning
 
-IBM Cloud Object Storage
+3.Node-RED
+
+4.IBM Cloud Object Storage
