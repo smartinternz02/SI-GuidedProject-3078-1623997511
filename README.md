@@ -4,6 +4,9 @@ In this project, we build a model using Auto AI and Node-red  web application wh
 
 Services Used:
 IBM Watson Studio
+
 IBM Watson Machine Learning
+
 Node-RED
+
 IBM Cloud Object Storage
